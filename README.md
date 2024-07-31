@@ -6,7 +6,7 @@
 </div>
 
 <div align="justify">  
-  My name is Ana Bárbara, I'm 20 years old and I'm a QA Engineer. 
+  My name is Ana Bárbara, I'm 23 years old and I'm a QA Engineer. 
 
 - 🌱 I’m currently learning Cypress (JavaScript)
 - 💬 If interested, talk to me!
